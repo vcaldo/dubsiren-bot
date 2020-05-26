@@ -7,7 +7,7 @@ import discord
 # load_dotenv()
 # TOKEN = os.getenv('DISCORD_TOKEN')
 # GUILD = os.getenv('DISCORD_GUILD')
-TOKEN = "NzE0ODg2OTEwNDI5ODg4NjQz.Xs1Nfw.0jUhl23eeeV76dVbJthtfPtyeRM"
+TOKEN = ""
 GUILD = "Cansi Crew"
 client = discord.Client()
 
